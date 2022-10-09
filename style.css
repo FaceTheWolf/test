@@ -7,3 +7,6 @@ body {
 code {
   font-size: 2em;
 }
+pre {
+  font-size: inherit;
+}
